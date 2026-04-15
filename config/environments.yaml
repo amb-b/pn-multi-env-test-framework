@@ -1,0 +1,22 @@
+environments:
+  countries:
+    base_url: https://restcountries.com/v3.1
+    max_response_time: 2.0
+    min_results_count: 1
+    endpoints:
+      region: /region/{region}
+      name: /name/{name}
+      all: /all
+
+  weather:
+    base_url: https://api.open-meteo.com/v1
+    max_response_time: 3.0
+    min_results_count: 1
+    endpoints:
+      forecast: /forecast
+    params:
+      hourly: temperature_2m
+      timezone: auto
+    temperature_range:
+      min: -80
+      max: 60
