@@ -262,3 +262,10 @@ jobs:
           name: junit-all
           path: reports/all-junit.xml
           retention-days: 30
+      - name: Deploy Allure report to GitHub Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: allure-report/combined
