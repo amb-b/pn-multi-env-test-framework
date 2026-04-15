@@ -1,0 +1,1 @@
+[{"values":["all"],"name":"Test.Environment"},{"values":["https://restcountries.com/v3.1"],"name":"countries.base_url"},{"values":["2.0"],"name":"countries.max_response_time"},{"values":["https://api.open-meteo.com/v1"],"name":"weather.base_url"},{"values":["3.0"],"name":"weather.max_response_time"}]

@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"8e362d2f1ee633a4506aed3ff5a72c7d","name":"Countries API","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}},{"uid":"76c962cf30b52869b7e26bc3536e6b50","name":"Weather API","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

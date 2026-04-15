@@ -1,0 +1,13 @@
+{
+  "latitude": 52.52,
+  "longitude": 13.4,
+  "generationtime_ms": 93.08183193206787,
+  "utc_offset_seconds": 7200,
+  "timezone": "Europe/Berlin",
+  "timezone_abbreviation": "GMT+2",
+  "elevation": 37.0,
+  "hourly_units": {
+    "time": "iso8601",
+    "temperature_2m": "\u00b0C"
+  }
+}
