@@ -1,0 +1,13 @@
+{
+  "latitude": -33.875,
+  "longitude": 151.125,
+  "generationtime_ms": 0.03457069396972656,
+  "utc_offset_seconds": 36000,
+  "timezone": "Australia/Sydney",
+  "timezone_abbreviation": "GMT+10",
+  "elevation": 86.0,
+  "hourly_units": {
+    "time": "iso8601",
+    "temperature_2m": "\u00b0C"
+  }
+}
