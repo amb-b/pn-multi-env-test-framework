@@ -1,1 +1,0 @@
-Uninhabited territories (population=0, allowed): ['Heard Island and McDonald Islands', 'Bouvet Island', 'South Georgia', 'United States Minor Outlying Islands', 'British Indian Ocean Territory']
